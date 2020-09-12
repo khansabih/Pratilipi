@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617194108324",
+    "firebase_url": "https://pratilipi-c690d.firebaseio.com",
+    "project_id": "pratilipi-c690d",
+    "storage_bucket": "pratilipi-c690d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617194108324:android:3a47f96363642330ba7d31",
+        "android_client_info": {
+          "package_name": "com.example.pratilipi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617194108324-rp60k4viklrnh0q4bs7fkdd82fe629mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEJnnjlAbdXgnddOo5nh6mRYHmJvvp4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617194108324-rp60k4viklrnh0q4bs7fkdd82fe629mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
